@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: Nuryauma/belajar-bareng-sija:latest
+          tags: nuryauma/belajar-bareng-sija:latest
